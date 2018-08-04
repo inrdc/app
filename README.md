@@ -8,3 +8,6 @@ It's trend to turn your national economy into cashless. INRDC for Indian citizen
 
 # INSTRUCTIONS
 Download or Clone the .apk file and install in your smart phone.
+
+<br>
+<img src="https://1.bp.blogspot.com/-7vj4Oxwi-RQ/W2SVcYkuLNI/AAAAAAAAACI/edJKYSl08qYnY7PNSkg8HYGVZmIWF9P2QCLcBGAs/s1600/inrdc%2Bmobile.png" alt="INRDC">
