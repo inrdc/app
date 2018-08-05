@@ -11,3 +11,6 @@ Download or Clone the .apk file and install in your smart phone.
 
 <br>
 <img src="https://1.bp.blogspot.com/-7vj4Oxwi-RQ/W2SVcYkuLNI/AAAAAAAAACI/edJKYSl08qYnY7PNSkg8HYGVZmIWF9P2QCLcBGAs/s1600/inrdc%2Bmobile.png" alt="INRDC">
+
+<b>Download INRDC wallet App on your Anroid Device</b><br>
+https://drive.google.com/open?id=1OJxxokpNPFCtuVvCQSb_ZZcO08lOu7_r
